@@ -4,8 +4,6 @@ Türkçe · [English](README.md)
 
 Obsidian vault'unu bir GitHub deposuyla **çift yönlü** senkronlar. Git kurmanız gerekmez: eklenti GitHub'ın web API'sini kullanır, bu yüzden Windows, Mac, Linux ve iPhone/iPad'de aynı şekilde çalışır.
 
-> **Durum:** Erken sürüm (0.1.0). Windows masaüstünde denendi: yerelden GitHub'a gönderme, GitHub'dan çekme, çakışma ve silme. Mac ve iPhone'da henüz denenmedi. Önemli notlarınız için ilk kullanımda vault'unuzun bir yedeğini alın.
-
 ## Ne yapar
 
 - Vault'taki dosyaları GitHub deposundaki bir dalla eşitler. Metin, resim ve diğer dosyalar dahil.

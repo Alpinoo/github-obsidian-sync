@@ -4,8 +4,6 @@
 
 Two-way sync between your Obsidian vault and a GitHub repository. No Git installation needed: the plugin talks to GitHub's web API, so it works the same way on Windows, Mac, Linux and iPhone/iPad.
 
-> **Status:** early release (0.1.0). Tested on Windows desktop: pushing local changes, pulling remote changes, conflicts and deletions. Not yet tested on Mac or iPhone. Back up your vault before the first sync if your notes matter to you.
-
 ## What it does
 
 - Keeps the files in your vault in sync with a branch of a GitHub repository, including text, images and other attachments.
