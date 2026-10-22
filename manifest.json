@@ -1,0 +1,9 @@
+{
+  "id": "github-vault-sync",
+  "name": "GitHub Vault Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Vault'u GitHub deposuyla cift yonlu senkronlar (git gerekmez; masaustu ve mobilde calisir).",
+  "author": "Alp",
+  "isDesktopOnly": false
+}
